@@ -1,0 +1,19 @@
+#number2 {
+    color: rgb(24, 24, 209);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(152, 209, 152);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.Odd {
+    background-color: palevioletred;
+    font-family: Verdana, dejavue-sans, sans-serif;
+}
+
+.Odd.Number3 {
+    font-size: 24px;
+}
